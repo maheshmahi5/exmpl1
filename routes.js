@@ -3,6 +3,8 @@ const _ = require("underscore")
 
 const configRoutes = [
 
+
+        //for git checking
       //get method for college percent
       {
         method: 'GET',
