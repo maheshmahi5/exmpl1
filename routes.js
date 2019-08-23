@@ -1,5 +1,5 @@
 const knex = require("./knex");
-// const _ = require("underscore")
+const _ = require("underscore")
 
 const configRoutes = [
 
